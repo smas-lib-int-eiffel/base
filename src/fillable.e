@@ -16,5 +16,7 @@ feature -- Element change
 			-- Fill Current with `a_values'.
 		deferred
 		end
+		
+		--
 
 end
